@@ -193,8 +193,8 @@ def create_gradio_interface():
         with gr.Column(elem_id="chat-container"):
             gr.Markdown(
                 """
-                # 🤖 AI Chatbot with Memory
-                Welcome to your personal AI assistant! Enter your ID and start chatting.
+                # 🤖 CareBot - Your Personal Medical AI Assistant
+                Welcome to your personal Medical AI assistant! Enter your ID and start chatting.
                 """
             )
             
